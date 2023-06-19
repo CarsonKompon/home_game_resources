@@ -1,7 +1,7 @@
 {
   "Title": "Home Game Resources",
   "Type": "addon",
-  "Org": "local",
+  "Org": "carsonk",
   "Ident": "home_game_resources",
   "Tags": null,
   "Schema": 1,
@@ -13,5 +13,17 @@
   "CodePath": "/code/",
   "PackageReferences": [],
   "EditorReferences": null,
-  "Metadata": {}
+  "Metadata": {
+    "CsProjName": "",
+    "PrimaryAsset": "",
+    "PhysicsMins": "-1,-1,-1",
+    "PhysicsMaxs": "1,1,1",
+    "RenderMins": "-1,-1,-1",
+    "RenderMaxs": "-1,-1,-1",
+    "Summary": "",
+    "Description": "The GameResources for Home so that you can create custom content :)",
+    "Public": true,
+    "ReplaceTags": "home",
+    "ParentPackage": "carsonk.home"
+  }
 }
