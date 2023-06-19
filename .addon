@@ -1,0 +1,17 @@
+{
+  "Title": "Home Game Resources",
+  "Type": "addon",
+  "Org": "local",
+  "Ident": "home_game_resources",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "Resources": null,
+  "MenuResources": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {}
+}
